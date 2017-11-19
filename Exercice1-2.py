@@ -1,4 +1,4 @@
-# Application TODO : Ajouter une tâche / Supprimer une tâche / Evaluer la charge de travail
+#Application TODO : Ajouter une tâche / Supprimer une tâche / Evaluer la charge de travail
 TacheTab = []
 AjouterTache = "1"
 SupprimerTache = "2"
