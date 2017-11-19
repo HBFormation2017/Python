@@ -1,4 +1,4 @@
-#Compter le nombre de lettres dans une chaîne de caractères
+# Compter le nombre de lettres dans une chaîne de caractères
 """
 mot = str(input("Saisissez un mot ou une phrase : "))
 
