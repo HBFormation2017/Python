@@ -8,3 +8,5 @@ while True: #Tant que cette condition est Vrai alors essaye
         break
     except ValueError: #Sinon affiche :
         print("Merci de saisir un nombre valide.")
+        
+# Test de commentaire et d'édition
